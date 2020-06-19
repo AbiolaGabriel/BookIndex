@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dictionary
+comment0.text=\n\ Write\ a\ description\ of\ class\ Dictionary\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Dictionary()
+comment2.params=file
+comment2.target=void\ addWords(java.lang.String)
+comment3.params=word
+comment3.target=boolean\ dictWord(java.lang.String)
+numComments=4

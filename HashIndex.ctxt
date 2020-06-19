@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=HashIndex
+comment0.text=\n\ Write\ a\ description\ of\ class\ HashIndex\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=HashIndex()
+comment2.params=word\ line
+comment2.target=void\ newEntry(java.lang.String,\ int)
+comment3.params=word
+comment3.target=java.util.ArrayList\ getLine(java.lang.String)
+comment4.params=word\ line
+comment4.target=void\ addLine(java.lang.String,\ int)
+comment5.params=name
+comment5.target=long\ toText(java.lang.String)
+numComments=6

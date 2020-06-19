@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Index
+comment0.text=\n\ Write\ a\ description\ of\ interface\ Index\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=word\ line
+comment1.target=void\ newEntry(java.lang.String,\ int)
+comment2.params=word\ line
+comment2.target=void\ addLine(java.lang.String,\ int)
+comment3.params=name
+comment3.target=long\ toText(java.lang.String)
+numComments=4

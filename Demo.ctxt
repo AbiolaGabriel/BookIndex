@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Demo
+comment0.text=\n\ Write\ a\ description\ of\ class\ Demo\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=file
+comment1.target=Demo(java.lang.String)
+comment2.params=a
+comment2.target=long\ readBook(Index)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

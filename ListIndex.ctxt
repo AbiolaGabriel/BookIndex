@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ListIndex
+comment0.text=\n\ Write\ a\ description\ of\ class\ ListIndex\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ListIndex()
+comment2.params=word\ line
+comment2.target=void\ newEntry(java.lang.String,\ int)
+comment3.params=word
+comment3.target=ListIndex.Entry\ getEntry(java.lang.String)
+comment4.params=word
+comment4.target=java.util.ArrayList\ getLine(java.lang.String)
+comment5.params=word
+comment5.target=boolean\ isHere(java.lang.String)
+comment6.params=word\ line
+comment6.target=void\ addLine(java.lang.String,\ int)
+comment7.params=name
+comment7.target=long\ toText(java.lang.String)
+comment8.params=
+comment8.target=void\ sort()
+numComments=9

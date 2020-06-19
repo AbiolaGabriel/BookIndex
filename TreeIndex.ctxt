@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TreeIndex
+comment0.text=\n\ Write\ a\ description\ of\ class\ TreeIndex\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=TreeIndex()
+comment2.params=word\ line
+comment2.target=void\ newEntry(java.lang.String,\ int)
+comment3.params=word
+comment3.target=boolean\ isHere(java.lang.String)
+comment4.params=word\ line
+comment4.target=void\ addLine(java.lang.String,\ int)
+comment5.params=name
+comment5.target=long\ toText(java.lang.String)
+numComments=6
